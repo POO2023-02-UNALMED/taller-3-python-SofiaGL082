@@ -36,7 +36,7 @@ class TV:
     
     def getControl(self):
         return self._control
-    def setControl(Self, control):
+    def setControl(self, control):
         self._control = control
     
     @classmethod
